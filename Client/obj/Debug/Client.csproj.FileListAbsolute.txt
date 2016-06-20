@@ -1,0 +1,11 @@
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\bin\Debug\Client.exe.config
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\bin\Debug\Client.exe
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\bin\Debug\Client.pdb
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\obj\Debug\Client.Properties.Resources.resources
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\obj\Debug\Client.exe
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\obj\Debug\Client.pdb
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\obj\Debug\Client.Form1.resources
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\bin\Debug\Contract.dll
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\bin\Debug\Contract.pdb

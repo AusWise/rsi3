@@ -1,0 +1,11 @@
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\bin\Release\Client.exe.config
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\bin\Release\Client.exe
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\bin\Release\Client.pdb
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\bin\Release\Contract.dll
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\bin\Release\Contract.pdb
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\obj\Release\Client.Form1.resources
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\obj\Release\Client.Properties.Resources.resources
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\obj\Release\Client.csproj.GenerateResource.Cache
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\obj\Release\Client.exe
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Client\obj\Release\Client.pdb

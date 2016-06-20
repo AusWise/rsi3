@@ -1,0 +1,5 @@
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Contract\bin\Release\Contract.dll.config
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Contract\bin\Release\Contract.dll
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Contract\bin\Release\Contract.pdb
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Contract\obj\Release\Contract.dll
+c:\Users\AusWise\Documents\Visual Studio 2013\Projects\Cw3\Contract\obj\Release\Contract.pdb
